@@ -1,7 +1,6 @@
 #!/usr/local/bin/bash
 #
 # SCRIPT: snmp.sh
-# AUTHOR: Phillip Hutchins
 # DATE:   14-MAR-2005
 # REV:    1.1.A (Valid are A, B, D, T and P)
 #               (For Alpha, Beta, Dev, Test and Production)
